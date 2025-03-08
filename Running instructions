@@ -1,0 +1,11 @@
+To run type
+streamlit run Analyzer.py
+in terminal
+
+If that doesnt work as well
+type
+cd (C:/*complete path till the folder in which the python file lies*)
+
+Then run the 
+streamlit run Analyzer.py
+command again
